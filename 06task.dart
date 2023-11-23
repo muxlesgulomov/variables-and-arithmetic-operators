@@ -8,4 +8,10 @@
 
 // Find the sum of a, b and c then assign to "answer".
 
-void main() {}
+void main() {
+int a=7;
+int x=3; 
+int d=5;
+int answer = a+x+d;
+print(answer); 
+}
